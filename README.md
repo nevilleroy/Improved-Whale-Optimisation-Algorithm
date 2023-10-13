@@ -1,1 +1,13 @@
-# Improved-Whale-Optimisation-Algorithm
+# Optimisation of Nature Inspired Meta-Heuristics Algorithm for improved Clustering
+<ul>
+  <li><h2>Overview</h2></li>
+    <ul>
+      <li>Clustering, in the field of data mining, is defined as the process of grouping similar data points. Nature-inspired algorithms are used in clustering to avoid premature convergence into local optima. Nature-inspired algorithms such as cuckoo search, firefly algorithm, bat algorithm, and flower pollination algorithm are defined as algorithms that emulate animals’ behavior in nature under varied circumstances. One such algorithm is the Whale Optimization Algorithm (WOA), inspired by the humpback whales’ bubble-net hunting strategy. Although WOA is observed to outperform several other nature-inspired algorithms, it suffers from exploration-exploitation imbalance and trapping in local optima. This paper proposes an improved Whale Optimization Algorithm with optimized hyperparameters determined using the Grid Search Algorithm to overcome the aforementioned. The proposed work is seen to outperform the existing WOA.</li>
+      <li> <h2>Proposed Model</h2></li>
+      <li> The whale optimization algorithm consists of 3 integral components- search, encircle and attack. Humpback whales initially search for their prey, encircle it while releasing bubbles and attack the prey by clustering them. In the original algorithm, the above operations were performed randomly and iteratively, where the solution with best fitness is found. The proposed model is designed to optimise the existing algorithm by determining the appropriate action to be taken by the search agent. By altering coefficients in the proposed algorithm, an improvement in the optimum solution is obtained, resulting in increased consistency, reduced runtime, improvements in clustering accuracy and efficiency.</li>
+    </ul>
+  <li> <h2>Results</h2></li>
+  <ul>
+      <li>Due to its simplicity, the WOA has found application in nearly every field of engineering and research. However, the basic algorithm does not allow for much flexibility and has limited performance. The algorithm also suffers from local optima stagnation and premature convergence. The proposed work helps provide an improved balance between the exploration and exploitation phases by using the current state of the solution to determine operation performed by the search agent (whale), which improves the algorithm’s overall efficiency and provides improved clustering accuracy. Future work could include further enhancement of the algorithm to achieve enhanced global convergence speed with better performance of the algorithm.</li>
+    </ul>
+</ul>
