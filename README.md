@@ -9,7 +9,8 @@
   <li> <h2>Results</h2></li>
   <ul>
       <li>Due to its simplicity, the WOA has found application in nearly every field of engineering and research. However, the basic algorithm does not allow for much flexibility and has limited performance. The algorithm also suffers from local optima stagnation and premature convergence. The proposed work helps provide an improved balance between the exploration and exploitation phases by using the current state of the solution to determine operation performed by the search agent (whale), which improves the algorithm’s overall efficiency and provides improved clustering accuracy. Future work could include further enhancement of the algorithm to achieve enhanced global convergence speed with better performance of the algorithm.</li>
-    <img width="900" alt="Screenshot 2023-10-13 at 6 04 07 PM" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/2a28f80d-4350-452b-bf5e-36d5b0e2a670">
-<img width="900" alt="Screenshot 2023-10-13 at 6 03 47 PM" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/84972001-a402-4a20-b0bc-cf253fe608a1">
-<img width="900" alt="Screenshot 2023-10-13 at 6 03 37 PM" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/77611332-a101-4b5b-a7cc-cafeb413a0dc">
-<img width="900" alt="Screenshot 2023-10-13 at 6 03 24 PM" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/f1b64f0e-c3cd-4b80-9fc9-78525767dc45">
+<img width="900" alt="2" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/6482c963-64b4-4251-b16e-ad77a5ed3be9">
+<img width="900" alt="3" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/123a1d59-3909-4002-88f6-66d6ccdb8ba8">
+<img width="900" alt="4" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/3748e8bf-1cb4-4584-aa41-bd274ec8ed61">
+<img width="900" alt="5" src="https://github.com/nevilleroy/Improved-Whale-Optimisation-Algorithm/assets/52038531/7b5f6647-14d8-4ab4-8dd6-9810e51cdac0">
+
